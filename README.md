@@ -3,7 +3,7 @@
 
 #### This repository contains documentation of my personal computer science projects.
 
-To view the documentation, click [here.](https://google.com)
+To view the documentation, click [here.](https://github.com/gerry101/Gerry-Computer-Science-Projects/blob/master/Gerry_Computer-Science_Projects.pdf)
   
 # 
   
